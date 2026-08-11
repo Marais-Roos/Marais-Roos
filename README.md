@@ -6,6 +6,7 @@
 <br>
 <br>
 
+<h1>
 <!-- 1. RIGHT ALIGNED ICONS (Ordered Right to Left: LinkedIn, Website, Email) -->
 <a href="https://linkedin.com/in/marais-roos">
   <picture>
@@ -27,8 +28,10 @@
 </a>
 
 <!-- 2. LEFT ALIGNED GREETING -->
-<img src="./assets/greeting-light.svg#gh-light-mode-only" alt="Hello. Dumela. Goeie Dag!" height="32">
-<img src="./assets/greeting-dark.svg#gh-dark-mode-only" alt="Hello. Dumela. Goeie Dag!" height="32">
+
+  <img src="./assets/greeting-light.svg#gh-light-mode-only" alt="Hello. Dumela. Goeie Dag!" height="32">
+  <img src="./assets/greeting-dark.svg#gh-dark-mode-only" alt="Hello. Dumela. Goeie Dag!" height="32">
+</h1>
 
 <!-- 3. CLEAR THE FLOATS -->
 <br clear="all">
@@ -107,9 +110,8 @@
   <img src="./assets/pill-fun-fact-light.svg" alt="FUN FACT" height="32">
 </picture>
 <p>I have genuinely lost track of how many times I have rewatched <i>The Office</i>. There is a very high probability that I communicate in Michael Scott quotes more often than is professionally advisable.</p>
-<br>
 
-<br>
+<br><br>
 
 <!-- 4. TECH STACK SECTION -->
 <h2>
