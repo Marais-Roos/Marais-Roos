@@ -9,14 +9,14 @@
 <table width="100%" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <!-- Export this serif header from Figma to maintain the standard Playfair typeface -->
-    <td width="80%" style="border: none;" valign="middle">
-      <img src="./assets/greeting-light.svg#gh-light-mode-only" alt="Hello. Dumela. Goeie Dag!" height="40">
-      <img src="./assets/greeting-dark.svg#gh-dark-mode-only" alt="Hello. Dumela. Goeie Dag!" height="40">
+    <td style="border: none;" valign="middle">
+      <img src="./assets/greeting-light.svg#gh-light-mode-only" alt="Hello. Dumela. Goeie Dag!" height="32">
+      <img src="./assets/greeting-dark.svg#gh-dark-mode-only" alt="Hello. Dumela. Goeie Dag!" height="32">
     </td>
     <td width="20%" align="right" style="border: none;" valign="middle">
-      <a href="https://linkedin.com/in/marais-roos"><img src="./assets/icon-linkedin-light.svg#gh-light-mode-only" height="24"><img src="./assets/icon-linkedin-dark.svg#gh-dark-mode-only" height="24"></a> &nbsp;
-      <a href="https://maraisroos.co.za"><img src="./assets/icon-website-light.svg#gh-light-mode-only" height="24"><img src="./assets/icon-website-dark.svg#gh-dark-mode-only" height="24"></a> &nbsp;
-      <a href="mailto:hello@maraisroos.co.za"><img src="./assets/icon-email-light.svg#gh-light-mode-only" height="24"><img src="./assets/icon-email-dark.svg#gh-dark-mode-only" height="24"></a>
+      <a href="https://linkedin.com/in/marais-roos"><img src="./assets/icon-linkedin-light.svg#gh-light-mode-only" height="32"><img src="./assets/icon-linkedin-dark.svg#gh-dark-mode-only" height="24"></a> &nbsp;
+      <a href="https://maraisroos.co.za"><img src="./assets/icon-website-light.svg#gh-light-mode-only" height="32"><img src="./assets/icon-website-dark.svg#gh-dark-mode-only" height="24"></a> &nbsp;
+      <a href="mailto:hello@maraisroos.co.za"><img src="./assets/icon-email-light.svg#gh-light-mode-only" height="32"><img src="./assets/icon-email-dark.svg#gh-dark-mode-only" height="24"></a>
     </td>
   </tr>
 </table>
@@ -32,6 +32,7 @@
 <table width="100%" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <!-- LEFT COLUMN: PILL TAGS -->
+    <!-- Export each grey pill button as an individual SVG -->
     <td width="30%" valign="top" style="border: none;">
       <br>
       <img src="./assets/pill-working-on-light.svg#gh-light-mode-only" alt="CURRENTLY WORKING ON"><img src="./assets/pill-working-on-dark.svg#gh-dark-mode-only" alt="CURRENTLY WORKING ON"><br><br>
@@ -44,7 +45,7 @@
     </td>
     
   <!-- RIGHT COLUMN: TEXT -->
-  <td width="70%" valign="top" style="border: none;">
+  <td width="65%" valign="top" style="border: none;">
     <p>Sunt ut ut enim modi voluptas voluptas quod voluptatibus. Ut et voluptate aut inventore nam non. Et libero et labore accusamus molestiae perspiciatis numquam officia aut. Dicta explicabo et ex ipsa aliquam consectetur voluptatem mollitia. Saepe modi dolorem ut inventore dolores reprehenderit nemo debitis. Est vero eum sunt reiciendis.</p>
     <br>
     <p>Qui ea voluptatem et id vero dolores natus et quasi. Mollitia quia deserunt. Doloribus aut facere consequuntur nihil occaecati eveniet. Voluptas non qui veritatis. Velit explicabo non. Et nihil quos consectetur recusandae exercitationem aut magnam qui voluptatem.</p>
@@ -103,6 +104,6 @@
 <br>
 
 <!-- 5. GITHUB STATS SECTION -->
-<img src="./assets/header-03-stats.svg" alt="03 / GitHub stats" height="32">
+<img src="./assets/header-stats-light.svg#gh-light-mode-only" alt="03 / GitHub stats" height="32"><img src="./assets/header-stats-dark.svg#gh-dark-mode-only" alt="03 / GitHub stats" height="24">
 <br>
 <!-- Drop your vercel app stat cards here in a standard side-by-side div or table -->
