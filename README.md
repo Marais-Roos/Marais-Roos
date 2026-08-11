@@ -4,22 +4,37 @@
 </a>
 
 <br>
+<br>
 
-<!-- 2. GREETING & SOCIALS -->
-<table width="100%" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <!-- Export this serif header from Figma to maintain the standard Playfair typeface -->
-    <td style="border: none;" valign="middle">
-      <img src="./assets/greeting-light.svg#gh-light-mode-only" alt="Hello. Dumela. Goeie Dag!" height="32">
-      <img src="./assets/greeting-dark.svg#gh-dark-mode-only" alt="Hello. Dumela. Goeie Dag!" height="32">
-    </td>
-    <td width="20%" align="right" style="border: none;" valign="middle">
-      <a href="https://linkedin.com/in/marais-roos"><img src="./assets/icon-linkedin-light.svg#gh-light-mode-only" height="32"><img src="./assets/icon-linkedin-dark.svg#gh-dark-mode-only" height="24"></a> &nbsp;
-      <a href="https://maraisroos.co.za"><img src="./assets/icon-website-light.svg#gh-light-mode-only" height="32"><img src="./assets/icon-website-dark.svg#gh-dark-mode-only" height="24"></a> &nbsp;
-      <a href="mailto:hello@maraisroos.co.za"><img src="./assets/icon-email-light.svg#gh-light-mode-only" height="32"><img src="./assets/icon-email-dark.svg#gh-dark-mode-only" height="24"></a>
-    </td>
-  </tr>
-</table>
+<!-- 1. RIGHT ALIGNED ICONS (Ordered Right to Left: LinkedIn, Website, Email) -->
+<a href="https://linkedin.com/in/marais-roos">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-linkedin-dark.svg">
+    <img align="right" src="./assets/icon-linkedin-light.svg" height="32">
+  </picture>
+</a>
+<a href="https://maraisroos.co.za">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-website-dark.svg">
+    <img align="right" src="./assets/icon-website-light.svg" height="32">
+  </picture>
+</a>
+<a href="mailto:hello@maraisroos.co.za">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-email-dark.svg">
+    <img align="right" src="./assets/icon-email-light.svg" height="32">
+  </picture>
+</a>
+
+<!-- 2. LEFT ALIGNED GREETING -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/greeting-dark.svg">
+  <img align="left" src="./assets/greeting-light.svg" height="32">
+</picture>
+
+<!-- 3. CLEAR THE FLOATS -->
+<br clear="all">
+<br>
 
 <!-- INTRO TEXT -->
 <p><b>I'm Marais Roos.</b> I am a "Designer who Codes" based in South Africa. I specialize in the design-to-development handoff, ensuring high-fidelity Figma prototypes are translated into pixel-perfect, responsive code.</p>
