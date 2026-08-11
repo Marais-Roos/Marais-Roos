@@ -27,78 +27,100 @@
 </a>
 
 <!-- 2. LEFT ALIGNED GREETING -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/greeting-dark.svg">
-  <img align="left" src="./assets/greeting-light.svg" height="32">
-</picture>
+<h1>
+  <img src="./assets/greeting-light.svg#gh-light-mode-only" alt="Hello. Dumela. Goeie Dag!" height="32">
+  <img src="./assets/greeting-dark.svg#gh-dark-mode-only" alt="Hello. Dumela. Goeie Dag!" height="32">
+</h1>
 
 <!-- 3. CLEAR THE FLOATS -->
 <br clear="all">
 <br>
 
 <!-- INTRO TEXT -->
-<p><b>I'm Marais Roos.</b> I am a "Designer who Codes" based in South Africa. I specialize in the design-to-development handoff, ensuring high-fidelity Figma prototypes are translated into pixel-perfect, responsive code.</p>
+<p><b>Hey there, I'm Marais.</b> I'm a web developer, "Designer who Codes," and the founder of <a href="https://github.com/Cobble-Road-Labs">Cobble Road Labs</a> based in South Africa. I specialize in the design-to-development handoff—which is mostly just a polite way of saying I spend way too long obsessing over high-contrast typography in Figma before remembering I actually have to build the thing. I try my absolute best to turn those prototypes into pixel-perfect frontend without losing my mind in the process.</p>
 
 <br>
 
 <!-- 3. ABOUT ME SECTION -->
-<img src="./assets/header-about-light.svg#gh-light-mode-only" alt="01 / About me" height="28"><img src="./assets/header-about-dark.svg#gh-dark-mode-only" alt="01 / About me" height="28">
-<br><br>
+<h2>
+  <img src="./assets/header-about-light.svg#gh-light-mode-only" alt="01 / About me" height="28">
+  <img src="./assets/header-about-dark.svg#gh-dark-mode-only" alt="01 / About me" height="28">
+</h2>
+
+<br>
 
 <!-- ROW 1 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-working-on-dark.svg">
   <img src="./assets/pill-working-on-light.svg" alt="CURRENTLY WORKING ON" height="32">
 </picture>
-<p>Sunt ut ut enim modi voluptas voluptas quod voluptatibus. Ut et voluptate aut inventore nam non. Et libero et labore accusamus molestiae perspiciatis numquam officia aut. Dicta explicabo et ex ipsa aliquam consectetur voluptatem mollitia. Saepe modi dolorem ut inventore dolores reprehenderit nemo debitis. Est vero eum sunt reiciendis.</p>
+<p>I’m currently juggling a few different things:</p>
+<ul>
+  <li><b>Cobble Road Labs:</b> Building out client projects and trying my absolute best to keep scope creep to a minimum.</li>
+  <li><b>Academics:</b> Slowly chipping away at my BSc in Informatics (and questioning my life choices during exam season).</li>
+  <li><b>Side Projects:</b> Tinkering with a few things in the pipeline that I fully intend to finish just as soon as I stop endlessly tweaking their CSS.</li>
+</ul>
 
 <!-- ROW 2 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-studying-dark.svg">
   <img src="./assets/pill-studying-light.svg" alt="CURRENTLY STUDYING" height="32">
 </picture>
-<p>Qui ea voluptatem et id vero dolores natus et quasi. Mollitia quia deserunt. Doloribus aut facere consequuntur nihil occaecati eveniet. Voluptas non qui veritatis. Velit explicabo non. Et nihil quos consectetur recusandae exercitationem aut magnam qui voluptatem.</p>
+<p>Instead of the usual "learning another JS framework," I’m currently deep in the academic trenches of my BSc Informatics degree. Right now, my syllabus looks like this:</p>
+<ul>
+  <li><b>C++ & Qt Framework / PyQt:</b> Writing core logic, building native cross-platform GUIs, and trying to avoid infinite loops in the terminal.</li>
+  <li><b>Databases & Object-Oriented Analysis:</b> Structuring systems properly on paper before I inevitably complicate them in practice.</li>
+  <li><b>Past Survivors:</b> I've already knocked out my business management and human-computer interaction modules—which just means I now understand the exact academic theory behind <i>why</i> a user interface is frustrating.</li>
+</ul>
 
 <!-- ROW 3 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-ask-me-dark.svg">
   <img src="./assets/pill-ask-me-light.svg" alt="ASK ME ABOUT" height="32">
 </picture>
-<p>Sit quia minus autem ad rem. Est veritatis suscipit aut reprehenderit dolor sint quaerat expedita. Voluptates temporibus sapiente consectetur accusamus dolor excepturi. Quidem qui eum neque non necessitatibus dolore mollitia ea culpa. Ipsam enim ratione numquam sunt.</p>
+<ul>
+  <li><b>Zorin OS:</b> Why I fiercely defend it as my daily driver for development, and the amount of time I spend fixing local network bindings.</li>
+  <li><b>Home Servers:</b> The joys (and inevitable tears) of self-hosting Docker containers on an aging ASRock G31M-S motherboard.</li>
+  <li><b>Next.js & Tailwind:</b> How to build decoupled apps that don't look like every other generic template on the internet.</li>
+  <li><b>DIY Hardware:</b> Modding electronics, rewiring controllers, or building custom timber monitor risers for my workspace.</li>
+</ul>
 
 <!-- ROW 4 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-projects-dark.svg">
   <img src="./assets/pill-projects-light.svg" alt="ALL OF MY PROJECTS ARE AVAILABLE AT" height="32">
 </picture>
-<p>Deleniti natus sed officia. Voluptatem sit dolor sunt rem nam reprehenderit non et earum. Facere at quo. Aliquam cupiditate est. Dignissimos consequatur iusto repudiandae laborum nulla omnis minima vero.</p>
+<p>You can find a curated collection of my finished work—the projects that actually made it out of Figma and survived the development phase—over at <a href="https://maraisroos.co.za">maraisroos.co.za</a>. It is where I keep the polished stuff and conveniently hide the messy Git commit histories.</p>
 
 <!-- ROW 5 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-reach-me-dark.svg">
   <img src="./assets/pill-reach-me-light.svg" alt="HOW TO REACH ME" height="32">
 </picture>
-<p>Sint voluptas qui impedit sed enim. Et sunt ut quia consectetur qui. Voluptas ut numquam alias accusamus officia sit officia consequatur.</p>
+<p>The best way to get a hold of me is via <a href="mailto:hello@maraisroos.co.za">email</a> or <a href="https://www.linkedin.com/in/marais-roos/">LinkedIn</a>. Whether you want to discuss a potential project, opportunities, complain about a particularly brutal C++ assignment, or just argue about why traditional Test cricket is the only format that matters, my inbox is always open.</p>
 
 <!-- ROW 6 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-experiences-dark.svg">
   <img src="./assets/pill-experiences-light.svg" alt="KNOW ABOUT MY EXPERIENCES" height="32">
 </picture>
-<p>Atque et itaque praesentium earum et nemo. Doloremque sapiente et non qui. Eos sed cupiditate minima commodi. Iure soluta fuga sit a.</p>
+<p>If you are looking for the official, professionally formatted timeline of my career—complete with all my freelance projects, B2B client work, and absolutely zero mention of how often I still have to Google basic CSS flexbox syntax—you can <a href="#">download a copy of my full CV here</a>. It is the neat, corporate-friendly summary of my professional life.</p>
 
 <!-- ROW 7 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-fun-fact-dark.svg">
   <img src="./assets/pill-fun-fact-light.svg" alt="FUN FACT" height="32">
 </picture>
-<p>Veritatis ipsa dolorem dignissimos numquam aliquam quis quam sit. Placeat aut nemo. Iste minima est soluta eum perferendis laborum. Iusto magni ullam voluptates cupiditate aspernatur suscipit. Delectus possimus aut.</p>
+<p>I have genuinely lost track of how many times I have rewatched <i>The Office</i>. At this point, it functions less as a TV show and more as the official background noise for my coding sessions. There is a very high probability that I communicate in Michael Scott quotes more often than is professionally advisable./p>
 <br>
 
 <br>
 
 <!-- 4. TECH STACK SECTION -->
-<img src="./assets/header-tech-light.svg#gh-light-mode-only" alt="01 / About me" height="28"><img src="./assets/header-tech-dark.svg#gh-dark-mode-only" alt="01 / About me" height="28">
+<h2>
+  <img src="./assets/header-tech-light.svg#gh-light-mode-only" alt="01 / About me" height="28">
+  <img src="./assets/header-tech-dark.svg#gh-dark-mode-only" alt="01 / About me" height="28">
+</h2>
 
 <br>
 
@@ -164,7 +186,11 @@
 <br><br>
 
 <!-- 5. GITHUB STATS SECTION -->
-<img src="./assets/header-stats-light.svg#gh-light-mode-only" alt="03 / GitHub stats" height="28"><img src="./assets/header-stats-dark.svg#gh-dark-mode-only" alt="03 / GitHub stats" height="28">
+<h2>
+  <img src="./assets/header-stats-light.svg#gh-light-mode-only" alt="03 / GitHub stats" height="28">
+  <img src="./assets/header-stats-dark.svg#gh-dark-mode-only" alt="03 / GitHub stats" height="28">
+</h2>
+
 <br>
 <!-- Drop your vercel app stat cards here in a standard side-by-side div or table -->
 <p align="center">
