@@ -42,46 +42,63 @@
 <br>
 
 <!-- 3. ABOUT ME SECTION -->
-<img src="./assets/header-about-light.svg#gh-light-mode-only" alt="01 / About me" height="32"><img src="./assets/header-about-dark.svg#gh-dark-mode-only" alt="01 / About me" height="24">
+<img src="./assets/header-about-light.svg#gh-light-mode-only" alt="01 / About me" height="24"><img src="./assets/header-about-dark.svg#gh-dark-mode-only" alt="01 / About me" height="24">
+<br><br>
 
-<table width="100%" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <!-- LEFT COLUMN: PILL TAGS -->
-    <!-- Export each grey pill button as an individual SVG -->
-    <td width="30%" valign="top" style="border: none;">
-      <br>
-      <img src="./assets/pill-working-on-light.svg#gh-light-mode-only" alt="CURRENTLY WORKING ON"><img src="./assets/pill-working-on-dark.svg#gh-dark-mode-only" alt="CURRENTLY WORKING ON"><br><br>
-      <img src="./assets/pill-studying-light.svg#gh-light-mode-only" alt="CURRENTLY STUDYING"><img src="./assets/pill-studying-dark.svg#gh-dark-mode-only" alt="CURRENTLY STUDYING"><br><br>
-      <img src="./assets/pill-ask-me-light.svg#gh-light-mode-only" alt="ASK ME ABOUT"><img src="./assets/pill-ask-me-dark.svg#gh-dark-mode-only" alt="ASK ME ABOUT"><br><br>
-      <img src="./assets/pill-projects-light.svg#gh-light-mode-only" alt="ALL OF MY PROJECTS ARE AVAILABLE AT"><img src="./assets/pill-projects-dark.svg#gh-dark-mode-only" alt="ALL OF MY PROJECTS ARE AVAILABLE AT"><br><br>
-      <img src="./assets/pill-reach-me-light.svg#gh-light-mode-only" alt="HOW TO REACH ME"><img src="./assets/pill-reach-me-dark.svg" alt="HOW TO REACH ME"><br><br>
-      <img src="./assets/pill-experiences-light.svg#gh-light-mode-only" alt="KNOW ABOUT MY EXPERIENCES"><img src="./assets/pill-experiences-dark.svg#gh-dark-mode-only" alt="KNOW ABOUT MY EXPERIENCES"><br><br>
-      <img src="./assets/pill-fun-fact-light.svg#gh-light-mode-only" alt="FUN FACT"><img src="./assets/pill-fun-fact-dark.svg#gh-dark-mode-only" alt="FUN FACT">
-    </td>
-    
-  <!-- RIGHT COLUMN: TEXT -->
-  <td width="65%" valign="top" style="border: none;">
-    <p>Sunt ut ut enim modi voluptas voluptas quod voluptatibus. Ut et voluptate aut inventore nam non. Et libero et labore accusamus molestiae perspiciatis numquam officia aut. Dicta explicabo et ex ipsa aliquam consectetur voluptatem mollitia. Saepe modi dolorem ut inventore dolores reprehenderit nemo debitis. Est vero eum sunt reiciendis.</p>
-    <br>
-    <p>Qui ea voluptatem et id vero dolores natus et quasi. Mollitia quia deserunt. Doloribus aut facere consequuntur nihil occaecati eveniet. Voluptas non qui veritatis. Velit explicabo non. Et nihil quos consectetur recusandae exercitationem aut magnam qui voluptatem.</p>
-    <br>
-    <p>Sit quia minus autem ad rem. Est veritatis suscipit aut reprehenderit dolor sint quaerat expedita. Voluptates temporibus sapiente consectetur accusamus dolor excepturi. Quidem qui eum neque non necessitatibus dolore mollitia ea culpa. Ipsam enim ratione numquam sunt.</p>
-    <br>
-    <p>Deleniti natus sed officia. Voluptatem sit dolor sunt rem nam reprehenderit non et earum. Facere at quo. Aliquam cupiditate est. Dignissimos consequatur iusto repudiandae laborum nulla omnis minima vero.</p>
-    <br>
-    <p>Sint voluptas qui impedit sed enim. Et sunt ut quia consectetur qui. Voluptas ut numquam alias accusamus officia sit officia consequatur.</p>
-    <br>
-    <p>Atque et itaque praesentium earum et nemo. Doloremque sapiente et non qui. Eos sed cupiditate minima commodi. Iure soluta fuga sit a.</p>
-    <br>
-    <p>Veritatis ipsa dolorem dignissimos numquam aliquam quis quam sit. Placeat aut nemo. Iste minima est soluta eum perferendis laborum. Iusto magni ullam voluptates cupiditate aspernatur suscipit. Delectus possimus aut.</p>
-  </td>
-  </tr>
-</table>
+<!-- ROW 1 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-working-on-dark.svg">
+  <img src="./assets/pill-working-on-light.svg" alt="CURRENTLY WORKING ON" height="32">
+</picture>
+<p>Sunt ut ut enim modi voluptas voluptas quod voluptatibus. Ut et voluptate aut inventore nam non. Et libero et labore accusamus molestiae perspiciatis numquam officia aut. Dicta explicabo et ex ipsa aliquam consectetur voluptatem mollitia. Saepe modi dolorem ut inventore dolores reprehenderit nemo debitis. Est vero eum sunt reiciendis.</p>
+
+<!-- ROW 2 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-studying-dark.svg">
+  <img src="./assets/pill-studying-light.svg" alt="CURRENTLY STUDYING" height="32">
+</picture>
+<p>Qui ea voluptatem et id vero dolores natus et quasi. Mollitia quia deserunt. Doloribus aut facere consequuntur nihil occaecati eveniet. Voluptas non qui veritatis. Velit explicabo non. Et nihil quos consectetur recusandae exercitationem aut magnam qui voluptatem.</p>
+
+<!-- ROW 3 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-ask-me-dark.svg">
+  <img src="./assets/pill-ask-me-light.svg" alt="ASK ME ABOUT" height="32">
+</picture>
+<p>Sit quia minus autem ad rem. Est veritatis suscipit aut reprehenderit dolor sint quaerat expedita. Voluptates temporibus sapiente consectetur accusamus dolor excepturi. Quidem qui eum neque non necessitatibus dolore mollitia ea culpa. Ipsam enim ratione numquam sunt.</p>
+
+<!-- ROW 4 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-projects-dark.svg">
+  <img src="./assets/pill-projects-light.svg" alt="ALL OF MY PROJECTS ARE AVAILABLE AT" height="32">
+</picture>
+<p>Deleniti natus sed officia. Voluptatem sit dolor sunt rem nam reprehenderit non et earum. Facere at quo. Aliquam cupiditate est. Dignissimos consequatur iusto repudiandae laborum nulla omnis minima vero.</p>
+
+<!-- ROW 5 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-reach-me-dark.svg">
+  <img src="./assets/pill-reach-me-light.svg" alt="HOW TO REACH ME" height="32">
+</picture>
+<p>Sint voluptas qui impedit sed enim. Et sunt ut quia consectetur qui. Voluptas ut numquam alias accusamus officia sit officia consequatur.</p>
+
+<!-- ROW 6 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-experiences-dark.svg">
+  <img src="./assets/pill-experiences-light.svg" alt="KNOW ABOUT MY EXPERIENCES" height="32">
+</picture>
+<p>Atque et itaque praesentium earum et nemo. Doloremque sapiente et non qui. Eos sed cupiditate minima commodi. Iure soluta fuga sit a.</p>
+
+<!-- ROW 7 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-fun-fact-dark.svg">
+  <img src="./assets/pill-fun-fact-light.svg" alt="FUN FACT" height="32">
+</picture>
+<p>Veritatis ipsa dolorem dignissimos numquam aliquam quis quam sit. Placeat aut nemo. Iste minima est soluta eum perferendis laborum. Iusto magni ullam voluptates cupiditate aspernatur suscipit. Delectus possimus aut.</p>
+<br>
 
 <br>
 
 <!-- 4. TECH STACK SECTION -->
-<img src="./assets/header-tech-light.svg#gh-light-mode-only" alt="01 / About me" height="32"><img src="./assets/header-tech-dark.svg#gh-dark-mode-only" alt="01 / About me" height="24">
+<img src="./assets/header-tech-light.svg#gh-light-mode-only" alt="01 / About me" height="24"><img src="./assets/header-tech-dark.svg#gh-dark-mode-only" alt="01 / About me" height="24">
 
 <table width="100%" style="border: none; border-collapse: collapse; text-align: left;">
   <tr style="border: none;">
