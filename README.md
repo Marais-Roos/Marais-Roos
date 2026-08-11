@@ -32,10 +32,9 @@
 
 <!-- 3. CLEAR THE FLOATS -->
 <br clear="all">
-<br>
 
 <!-- INTRO TEXT -->
-<p><b>Hey there, I'm Marais.</b> I'm a web developer, "Designer who Codes," and the founder of <a href="https://github.com/Cobble-Road-Labs">Cobble Road Labs</a> based in South Africa. I specialize in the design-to-development handoff—which is mostly just a polite way of saying I spend way too long obsessing over high-contrast typography in Figma before remembering I actually have to build the thing. I try my absolute best to turn those prototypes into pixel-perfect frontend without losing my mind in the process.</p>
+<p><b>Hey there, I'm Marais.</b> I'm a web developer, "Designer who Codes," and the founder of <b><a href="https://github.com/Cobble-Road-Labs">Cobble Road Labs</a></b> based in South Africa. I specialize in the design-to-development handoff—which is mostly just a polite way of saying I spend way too long obsessing over high-contrast typography in Figma before remembering I actually have to build the thing. I try my absolute best to turn those prototypes into pixel-perfect frontend without losing my mind in the process.</p>
 
 <br>
 
