@@ -27,10 +27,8 @@
 </a>
 
 <!-- 2. LEFT ALIGNED GREETING -->
-<h1>
-  <img src="./assets/greeting-light.svg#gh-light-mode-only" alt="Hello. Dumela. Goeie Dag!" height="32">
-  <img src="./assets/greeting-dark.svg#gh-dark-mode-only" alt="Hello. Dumela. Goeie Dag!" height="32">
-</h1>
+<img src="./assets/greeting-light.svg#gh-light-mode-only" alt="Hello. Dumela. Goeie Dag!" height="32">
+<img src="./assets/greeting-dark.svg#gh-dark-mode-only" alt="Hello. Dumela. Goeie Dag!" height="32">
 
 <!-- 3. CLEAR THE FLOATS -->
 <br clear="all">
