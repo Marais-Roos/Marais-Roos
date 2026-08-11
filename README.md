@@ -54,7 +54,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-working-on-dark.svg">
   <img src="./assets/pill-working-on-light.svg" alt="CURRENTLY WORKING ON" height="32">
 </picture>
-<p>I’m currently juggling a few different things:</p>
 <ul>
   <li><b>Cobble Road Labs:</b> Building out client projects and trying my absolute best to keep scope creep to a minimum.</li>
   <li><b>Academics:</b> Slowly chipping away at my BSc in Informatics (and questioning my life choices during exam season).</li>
@@ -66,7 +65,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-studying-dark.svg">
   <img src="./assets/pill-studying-light.svg" alt="CURRENTLY STUDYING" height="32">
 </picture>
-<p>Instead of the usual "learning another JS framework," I’m currently deep in the academic trenches of my BSc Informatics degree. Right now, my syllabus looks like this:</p>
 <ul>
   <li><b>C++ & Qt Framework / PyQt:</b> Writing core logic, building native cross-platform GUIs, and trying to avoid infinite loops in the terminal.</li>
   <li><b>Databases & Object-Oriented Analysis:</b> Structuring systems properly on paper before I inevitably complicate them in practice.</li>
@@ -79,10 +77,10 @@
   <img src="./assets/pill-ask-me-light.svg" alt="ASK ME ABOUT" height="32">
 </picture>
 <ul>
-  <li><b>Zorin OS:</b> Why I fiercely defend it as my daily driver for development, and the amount of time I spend fixing local network bindings.</li>
-  <li><b>Home Servers:</b> The joys (and inevitable tears) of self-hosting Docker containers on an aging ASRock G31M-S motherboard.</li>
-  <li><b>Next.js & Tailwind:</b> How to build decoupled apps that don't look like every other generic template on the internet.</li>
-  <li><b>DIY Hardware:</b> Modding electronics, rewiring controllers, or building custom timber monitor risers for my workspace.</li>
+  <li><b>Zorin OS:</b> My daily driver, despite the time spent fixing local network bindings.</li>
+  <li><b>Home Servers:</b> Self-hosting Docker on an aging ASRock G31M-S motherboard.</li>
+  <li><b>Next.js & Tailwind:</b> Building decoupled apps that escape the generic template curse.</li>
+  <li><b>DIY Hardware:</b> Modding electronics and building custom timber workspace gear.</li>
 </ul>
 
 <!-- ROW 4 -->
@@ -90,28 +88,28 @@
   <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-projects-dark.svg">
   <img src="./assets/pill-projects-light.svg" alt="ALL OF MY PROJECTS ARE AVAILABLE AT" height="32">
 </picture>
-<p>You can find a curated collection of my finished work—the projects that actually made it out of Figma and survived the development phase—over at <a href="https://maraisroos.co.za">maraisroos.co.za</a>. It is where I keep the polished stuff and conveniently hide the messy Git commit histories.</p>
+<p>You can find the polished projects that actually survived development at <a href="https://maraisroos.co.za">maraisroos.co.za</a>, where I conveniently hide my messy commit histories.</p>
 
 <!-- ROW 5 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-reach-me-dark.svg">
   <img src="./assets/pill-reach-me-light.svg" alt="HOW TO REACH ME" height="32">
 </picture>
-<p>The best way to get a hold of me is via <a href="mailto:hello@maraisroos.co.za">email</a> or <a href="https://www.linkedin.com/in/marais-roos/">LinkedIn</a>. Whether you want to discuss a potential project, opportunities, complain about a particularly brutal C++ assignment, or just argue about why traditional Test cricket is the only format that matters, my inbox is always open.</p>
+<p>TReach out via <a href="mailto:hello@maraisroos.co.za">email</a> or <a href="https://www.linkedin.com/in/marais-roos/">LinkedIn</a> to discuss work, projects, brutal C++ assignments, or why Test cricket is the only format that matters.</p>
 
 <!-- ROW 6 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-experiences-dark.svg">
   <img src="./assets/pill-experiences-light.svg" alt="KNOW ABOUT MY EXPERIENCES" height="32">
 </picture>
-<p>If you are looking for the official, professionally formatted timeline of my career—complete with all my freelance projects, B2B client work, and absolutely zero mention of how often I still have to Google basic CSS flexbox syntax—you can <a href="#">download a copy of my full CV here</a>. It is the neat, corporate-friendly summary of my professional life.</p>
+<p>For the neat, corporate-friendly timeline of my B2B client work and agency roles, <a href="#">download my full CV here</a>.</p>
 
 <!-- ROW 7 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-fun-fact-dark.svg">
   <img src="./assets/pill-fun-fact-light.svg" alt="FUN FACT" height="32">
 </picture>
-<p>I have genuinely lost track of how many times I have rewatched <i>The Office</i>. At this point, it functions less as a TV show and more as the official background noise for my coding sessions. There is a very high probability that I communicate in Michael Scott quotes more often than is professionally advisable./p>
+<p>I have genuinely lost track of how many times I have rewatched <i>The Office</i>. There is a very high probability that I communicate in Michael Scott quotes more often than is professionally advisable.</p>
 <br>
 
 <br>
@@ -130,7 +128,7 @@
   <img src="./assets/pill-design.svg" alt="CURRENTLY WORKING ON" height="32">
 </picture>
 
-<p>This is where I spend an unreasonable amount of time obsessing over heavy typography and ruthlessly deleting colors until I am left with a highly restrictive, high-contrast palette. I rely on Figma for UI prototypes and Affinity Studio for custom visual assets—meticulously crafting minimalist interfaces before reality sets in and I remember I actually have to code the thing I just designed.</p>
+<p>Where I spend an unreasonable amount of time obsessing over typography and restrictive palettes, meticulously crafting minimalist interfaces before reality sets in.</p>
 <div>
   <img src="./assets/icons/icon-figma.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-affinity.svg" height="48">
 </div>
@@ -142,7 +140,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-frontend-dark.svg">
   <img src="./assets/pill-frontend-light.svg" alt="CURRENTLY WORKING ON" height="32">
 </picture>
-<p>This is where the polished design meets reality. I build decoupled, high-performance web applications using React and Next.js, enforcing strict TypeScript to keep the codebase predictable before I inevitably break something. I rely heavily on Tailwind CSS to translate my UI prototypes into scalable components, though a good chunk of my time is usually spent fighting with my primary browser when it aggressively caches my layout updates and gaslights me into thinking my code is broken.</p>
+<p>Where polished design meets reality. I build decoupled apps in React and Next.js, relying on Tailwind and strict TypeScript to keep the codebase predictable before I inevitably break something.</p>
 <div>
   <img src="./assets/icons/icon-next-js.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-react.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-typescript.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-tailwind.svg" height="48">
 </div>
@@ -154,7 +152,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-backend-dark.svg">
   <img src="./assets/pill-backend-light.svg" alt="CURRENTLY WORKING ON" height="32">
 </picture>
-<p>This is where I wire up the plumbing so the meticulously designed frontend actually does something. I use Sanity for headless content management and Supabase to structure relational databases (which is currently the backbone keeping my custom Omnipost scheduling app alive). Finally, I plug in Resend to handle transactional emails—because at some point, the system actually needs to talk to users without immediately ending up in their spam folders.</p>
+<p>Wiring up the plumbing. I use Sanity for headless CMS, Supabase for relational databases, and Resend so the system can actually talk to users.</p>
 <div>
   <img src="./assets/icons/icon-sanity.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-supabase.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-resend.svg" height="48">
 </div>
@@ -166,7 +164,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-software-dark.svg">
   <img src="./assets/pill-software-light.svg" alt="CURRENTLY WORKING ON" height="32">
 </picture>
-<p>This is where the heavy academic lifting happens. While the web stuff pays the bills, my Informatics degree drags me deep into the trenches of strict object-oriented programming. I use C++ and Python to write core system logic—usually while triple-checking my standard inputs just to avoid trapping myself in an infinite terminal loop. When I finally need to slap a native, cross-platform GUI on top of all that underlying code, I turn to the Qt framework to make it actually look presentable.</p>
+<p>The heavy academic lifting. I use C++ and Python for core logic (triple-checking inputs to avoid terminal loops), and the Qt framework for native GUIs.</p>
 <div>
   <img src="./assets/icons/icon-cpp.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-python.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-qt.svg" height="48">
 </div>
@@ -178,7 +176,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-tools-dark.svg">
   <img src="./assets/pill-tools-light.svg" alt="CURRENTLY WORKING ON" height="32">
 </picture>
-<p>This is the final hurdle where my code actually sees the light of day. I write everything in VS Code from the comfort of my Zorin OS desktop, using Git and GitHub to keep my version history somewhat sane. When it is finally time to ship, I rely on Vercel for hosting—which is an absolute breeze, right up until I forget to clear the build cache or spend an hour wondering why my live deployment can't read a missing environment variable.</p>
+<p>The final hurdle on my Zorin OS desktop. Git and GitHub keep my version history sane, while Vercel handles deployments—until I forget to clear a build cache.</p>
 <div>
   <img src="./assets/icons/icon-git.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-github.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-vs-code.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-vercel.svg" height="48">
 </div>
