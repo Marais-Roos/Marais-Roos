@@ -191,7 +191,7 @@
 <br>
 <!-- Drop your vercel app stat cards here in a standard side-by-side div or table -->
 <p align="center">
-  <img src="https://github-readme-stats-nine-azure-24.vercel.app/api?username=Marais-Roos&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff" alt="Marais Roos Stats" height="180" />
+  <img src="https://github-readme-stats-nine-azure-24.vercel.app/api?username=Marais-Roos&count_private=true&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff" alt="Marais Roos Stats" height="180" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-nine-azure-24.vercel.app/api/top-langs/?username=Marais-Roos&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e" alt="Top Languages" height="180" />
 </p>
