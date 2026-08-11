@@ -100,35 +100,67 @@
 <!-- 4. TECH STACK SECTION -->
 <img src="./assets/header-tech-light.svg#gh-light-mode-only" alt="01 / About me" height="28"><img src="./assets/header-tech-dark.svg#gh-dark-mode-only" alt="01 / About me" height="28">
 
+<br>
+
 <!-- SUBSECTION 1: DESIGNING & PROTOTYPING -->
-<p><b>DESIGNING & PROTOTYPING</b></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-design-dark.svg">
+  <img src="./assets/pill-design.svg" alt="CURRENTLY WORKING ON" height="32">
+</picture>
 
 <p>Structuring user personas, journey maps, and high-fidelity interfaces before writing any code.</p>
-<img src="./assets/icons/icon-figma.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-affinity.svg" height="48">
-<br><br>
+<div>
+  <img src="./assets/icons/icon-figma.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-affinity.svg" height="48">
+</div>
+
+<br>
 
 <!-- SUBSECTION 2: FRONT-END ARCHITECTURE -->
-<p><b>FRONT-END ARCHITECTURE</b></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-frontend-dark.svg">
+  <img src="./assets/pill-frontend-light.svg" alt="CURRENTLY WORKING ON" height="32">
+</picture>
 <p>Building high-performance, decoupled digital platforms and scalable component libraries.</p>
-<img src="./assets/icons/icon-next-js.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-react.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-typescript.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-tailwind.svg" height="48">
-<br><br>
+<div>
+  <img src="./assets/icons/icon-next-js.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-react.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-typescript.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-tailwind.svg" height="48">
+</div>
+
+<br>
 
 <!-- SUBSECTION 3: BACKEND & INFRASTRUCTURE -->
-<p><b>BACKEND & INFRASTRUCTURE</b></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-backend-dark.svg">
+  <img src="./assets/pill-backend-light.svg" alt="CURRENTLY WORKING ON" height="32">
+</picture>
 <p>Containerizing applications, configuring database architectures, and managing transactional email pipelines.</p>
-<img src="./assets/icons/icon-sanity.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-supabase.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-resend.svg" height="48">
-<br><br>
+<div>
+  <img src="./assets/icons/icon-sanity.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-supabase.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-resend.svg" height="48">
+</div>
+
+<br>
 
 <!-- SUBSECTION 4: SOFTWARE & APPLICATION DEVELOPMENT -->
-<p><b>SOFTWARE & APPLICATION DEVELOPMENT</b></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-software-dark.svg">
+  <img src="./assets/pill-software-light.svg" alt="CURRENTLY WORKING ON" height="32">
+</picture>
 <p>Writing core software logic and developing cross-platform native graphical user interfaces.</p>
-<img src="./assets/icons/icon-cpp.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-python.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-qt.svg" height="48">
-<br><br>
+<div>
+  <img src="./assets/icons/icon-cpp.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-python.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-qt.svg" height="48">
+</div>
+
+<br>
 
 <!-- SUBSECTION 5: TOOLS & DEPLOYMENT -->
-<p><b>TOOLS & DEPLOYMENT</b></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-tools-dark.svg">
+  <img src="./assets/pill-tools-light.svg" alt="CURRENTLY WORKING ON" height="32">
+</picture>
 <p>Managing version control, IDEs, and seamless CI/CD hosting pipelines.</p>
-<img src="./assets/icons/icon-git.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-github.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-vs-code.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-vercel.svg" height="48">
+<div>
+  <img src="./assets/icons/icon-git.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-github.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-vs-code.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-vercel.svg" height="48">
+</div>
+
 <br><br>
 
 <!-- 5. GITHUB STATS SECTION -->
