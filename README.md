@@ -130,7 +130,7 @@
   <img src="./assets/pill-design.svg" alt="CURRENTLY WORKING ON" height="32">
 </picture>
 
-<p>Structuring user personas, journey maps, and high-fidelity interfaces before writing any code.</p>
+<p>This is where I spend an unreasonable amount of time obsessing over heavy typography and ruthlessly deleting colors until I am left with a highly restrictive, high-contrast palette. I rely on Figma for UI prototypes and Affinity Studio for custom visual assets—meticulously crafting minimalist interfaces before reality sets in and I remember I actually have to code the thing I just designed.</p>
 <div>
   <img src="./assets/icons/icon-figma.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-affinity.svg" height="48">
 </div>
@@ -142,7 +142,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-frontend-dark.svg">
   <img src="./assets/pill-frontend-light.svg" alt="CURRENTLY WORKING ON" height="32">
 </picture>
-<p>Building high-performance, decoupled digital platforms and scalable component libraries.</p>
+<p>This is where the polished design meets reality. I build decoupled, high-performance web applications using React and Next.js, enforcing strict TypeScript to keep the codebase predictable before I inevitably break something. I rely heavily on Tailwind CSS to translate my UI prototypes into scalable components, though a good chunk of my time is usually spent fighting with my primary browser when it aggressively caches my layout updates and gaslights me into thinking my code is broken.</p>
 <div>
   <img src="./assets/icons/icon-next-js.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-react.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-typescript.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-tailwind.svg" height="48">
 </div>
@@ -154,7 +154,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-backend-dark.svg">
   <img src="./assets/pill-backend-light.svg" alt="CURRENTLY WORKING ON" height="32">
 </picture>
-<p>Containerizing applications, configuring database architectures, and managing transactional email pipelines.</p>
+<p>This is where I wire up the plumbing so the meticulously designed frontend actually does something. I use Sanity for headless content management and Supabase to structure relational databases (which is currently the backbone keeping my custom Omnipost scheduling app alive). Finally, I plug in Resend to handle transactional emails—because at some point, the system actually needs to talk to users without immediately ending up in their spam folders.</p>
 <div>
   <img src="./assets/icons/icon-sanity.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-supabase.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-resend.svg" height="48">
 </div>
@@ -166,7 +166,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-software-dark.svg">
   <img src="./assets/pill-software-light.svg" alt="CURRENTLY WORKING ON" height="32">
 </picture>
-<p>Writing core software logic and developing cross-platform native graphical user interfaces.</p>
+<p>This is where the heavy academic lifting happens. While the web stuff pays the bills, my Informatics degree drags me deep into the trenches of strict object-oriented programming. I use C++ and Python to write core system logic—usually while triple-checking my standard inputs just to avoid trapping myself in an infinite terminal loop. When I finally need to slap a native, cross-platform GUI on top of all that underlying code, I turn to the Qt framework to make it actually look presentable.</p>
 <div>
   <img src="./assets/icons/icon-cpp.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-python.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-qt.svg" height="48">
 </div>
@@ -178,7 +178,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="./assets/pill-tools-dark.svg">
   <img src="./assets/pill-tools-light.svg" alt="CURRENTLY WORKING ON" height="32">
 </picture>
-<p>Managing version control, IDEs, and seamless CI/CD hosting pipelines.</p>
+<p>This is the final hurdle where my code actually sees the light of day. I write everything in VS Code from the comfort of my Zorin OS desktop, using Git and GitHub to keep my version history somewhat sane. When it is finally time to ship, I rely on Vercel for hosting—which is an absolute breeze, right up until I forget to clear the build cache or spend an hour wondering why my live deployment can't read a missing environment variable.</p>
 <div>
   <img src="./assets/icons/icon-git.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-github.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-vs-code.svg" height="48">&nbsp;&nbsp;<img src="./assets/icons/icon-vercel.svg" height="48">
 </div>
