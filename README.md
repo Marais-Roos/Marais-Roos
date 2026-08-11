@@ -167,3 +167,10 @@
 <img src="./assets/header-stats-light.svg#gh-light-mode-only" alt="03 / GitHub stats" height="28"><img src="./assets/header-stats-dark.svg#gh-dark-mode-only" alt="03 / GitHub stats" height="28">
 <br>
 <!-- Drop your vercel app stat cards here in a standard side-by-side div or table -->
+<p align="center">
+  <img src="https://github-readme-stats-nine-azure-24.vercel.app/api?username=Marais-Roos&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff" alt="Marais Roos Stats" height="180" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-nine-azure-24.vercel.app/api/top-langs/?username=Marais-Roos&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e" alt="Top Languages" height="180" />
+</p>
+
+<br><br>
